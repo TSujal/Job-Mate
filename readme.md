@@ -67,7 +67,7 @@ Pull requests are welcome. Please open an issue first to discuss what you would 
 
 ## 📫 Contact
 
-Built with ❤️ by **Sujal Thakkar**  
+Built by **Sujal Thakkar**  
 📧 thakkar.su@northeastern.edu  
 🔗 [LinkedIn](https://www.linkedin.com/in/sujal-thakkar/) • [GitHub](https://github.com/TSujal)
 
